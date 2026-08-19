@@ -1,0 +1,4 @@
+samples/**
+.gitignore
+**/.gitignore
+*.vsix
