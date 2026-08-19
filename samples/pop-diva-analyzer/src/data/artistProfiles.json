@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-08-19T00:00:00Z",
+  "version": "1.4.2",
+  "includeUnreleased": false,
+  "confidenceThreshold": 0.82,
+  "sampleSize": 128,
+  "notes": "Scores are vibes-based, not scientific. Handle with glitter gloves.",
+  "artists": [
+    {
+      "id": 1,
+      "stageName": "Charli XCX",
+      "eraLabel": "brat",
+      "hyperpopEnergyIndex": 97.5,
+      "campFactor": 9.8,
+      "isIndieSleazeRevival": true,
+      "signatureTracks": ["360", "Von dutch", "Apple", "Guess", "Club classics"],
+      "collaborators": ["Billie Eilish"],
+      "chartMomentum": {
+        "trend": "rising",
+        "weeksOnChart": 14,
+        "peakPosition": 3
+      }
+    },
+    {
+      "id": 2,
+      "stageName": "Ariana Grande",
+      "eraLabel": "eternal sunshine",
+      "hyperpopEnergyIndex": 61.2,
+      "campFactor": 6.4,
+      "isIndieSleazeRevival": false,
+      "signatureTracks": ["thank u, next", "7 rings", "positions", "we can't be friends", "yes, and?"],
+      "collaborators": ["Victoria Monét", "Social House"],
+      "chartMomentum": {
+        "trend": "steady",
+        "weeksOnChart": 22,
+        "peakPosition": 1
+      }
+    },
+    {
+      "id": 3,
+      "stageName": "Addison Rae",
+      "eraLabel": "addison",
+      "hyperpopEnergyIndex": 78.9,
+      "campFactor": 8.1,
+      "isIndieSleazeRevival": true,
+      "signatureTracks": ["Obsessed", "Diet Pepsi", "Aquamarine", "High Fashion"],
+      "collaborators": null,
+      "chartMomentum": {
+        "trend": "rising",
+        "weeksOnChart": 9,
+        "peakPosition": 7
+      }
+    }
+  ],
+  "scoringWeights": {
+    "vocalRun": 0.25,
+    "stagePresence": 0.35,
+    "chartMomentum": 0.4
+  },
+  "funFacts": {
+    "glitterParticleEstimate": 6.022e23,
+    "soundcheckOffsetHours": -1.5,
+    "encoreProbability": 0.999
+  },
+  "deepDive": {
+    "tourData": {
+      "2026": {
+        "northAmericaLegs": {
+          "count": 3,
+          "avgAttendance": 14250.75,
+          "sellOutRate": 0.93,
+          "notableStop": "São Paulo — sold out in 4 minutes"
+        }
+      }
+    }
+  },
+  "excludedArtists": [],
+  "manualOverrides": {},
+  "lastAuditPassed": true
+}

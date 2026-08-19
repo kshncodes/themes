@@ -1,0 +1,14 @@
+{
+  "name": "pop-diva-analyzer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Scores chart momentum, vocal runs, and stage presence for whoever's having a moment this quarter.",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
