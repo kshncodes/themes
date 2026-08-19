@@ -4,6 +4,7 @@
   "description": "A family of VS Code color themes, each pairing a soft pastel light mode with a saturated dark mode built from the same accent.",
   "version": "1.0.0",
   "publisher": "kshncodes",
+  "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
