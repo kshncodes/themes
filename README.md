@@ -8,7 +8,7 @@ built from the same accent.
 Search for **KSHN Themes** in the Extensions view (`Cmd+Shift+X`), or run:
 
 ```
-ext install kshncodes.themes
+ext install kshncodes.kshn-themes
 ```
 
 ## Themes
