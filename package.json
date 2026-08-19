@@ -1,0 +1,31 @@
+{
+  "name": "kshn-themes",
+  "displayName": "KSHN Themes",
+  "description": "A family of VS Code color themes, each pairing a soft pastel light mode with a saturated dark mode built from the same accent.",
+  "version": "1.0.0",
+  "publisher": "kshncodes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kshncodes/themes.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "color-theme", "dark", "light", "pastel"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "KSHN Pink Moscato",
+        "uiTheme": "vs",
+        "path": "./themes/pink-moscato/light-color-theme.json"
+      },
+      {
+        "label": "KSHN Dark Pink Moscato",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-moscato/dark-color-theme.json"
+      }
+    ]
+  }
+}
