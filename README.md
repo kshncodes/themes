@@ -13,11 +13,6 @@ ext install kshncodes.kshn-themes
 
 ## Themes
 
-- **KSHN Pink Moscato** — light
-- **KSHN Dark Pink Moscato** — dark
-
-## Screenshots
-
 ### KSHN Pink Moscato
 
 ![KSHN Pink Moscato preview](docs/screenshots/pink-moscato-light.png)
@@ -25,6 +20,14 @@ ext install kshncodes.kshn-themes
 ### KSHN Dark Pink Moscato
 
 ![KSHN Dark Pink Moscato preview](docs/screenshots/pink-moscato-dark.png)
+
+### KSHN Champagne
+
+![KSHN Champagne preview](docs/screenshots/champagne-light.png)
+
+### KSHN Dark Champagne
+
+![KSHN Dark Champagne preview](docs/screenshots/champagne-dark.png)
 
 ## License
 
