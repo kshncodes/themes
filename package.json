@@ -2,7 +2,7 @@
   "name": "kshn-themes",
   "displayName": "KSHN Themes",
   "description": "A family of VS Code color themes, each pairing a soft pastel light mode with a saturated dark mode built from the same accent.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "kshncodes",
   "icon": "icon.png",
   "license": "MIT",
@@ -36,6 +36,16 @@
         "label": "KSHN Dark Champagne",
         "uiTheme": "vs-dark",
         "path": "./themes/champagne/dark-color-theme.json"
+      },
+      {
+        "label": "KSHN Blue Curaçao",
+        "uiTheme": "vs",
+        "path": "./themes/blue-curacao/light-color-theme.json"
+      },
+      {
+        "label": "KSHN Dark Blue Curaçao",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-curacao/dark-color-theme.json"
       }
     ]
   }

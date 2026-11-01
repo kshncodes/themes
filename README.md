@@ -29,6 +29,14 @@ ext install kshncodes.kshn-themes
 
 ![KSHN Dark Champagne preview](docs/screenshots/champagne-dark.png)
 
+### KSHN Blue Curaçao
+
+![KSHN Blue Curaçao preview](docs/screenshots/blue-curacao-light.png)
+
+### KSHN Dark Blue Curaçao
+
+![KSHN Dark Blue Curaçao preview](docs/screenshots/blue-curacao-dark.png)
+
 ## License
 
 MIT
